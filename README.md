@@ -1,3 +1,3 @@
 # TicTacToeConsoleGame
 
-This is a simple console tic toe game.
+This is a simple console c sharp tic toe game.
